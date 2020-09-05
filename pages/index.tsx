@@ -21,8 +21,8 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, I'm Olumide.I'm a full stact sotware developer. I program with (HTML, CSS/SCSS, Node/JS/React,
-          python ..... You can contact me on <a href="https://github.com/olumide025" target="_blank">Github</a>.
+        <p>Hi, I'm Olumide.I'm a full stact software developer. I program with (HTML, CSS/SCSS, Node/JS/React,
+          python ..... I also have a business degree and accounting background. You can contact me on <a href="https://github.com/olumide025" target="_blank">Github</a>.
         </p>
         <p>
           (This is a sample website - built with Next.js.
