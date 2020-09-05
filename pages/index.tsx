@@ -21,10 +21,12 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Hi, I'm Olumide.I'm a full stact sotware developer. I program with (HTML, CSS/SCSS, Node/JS/React,
+          python ..... You can contact me on <a href="https://github.com/olumide025" target="_blank">Github</a>.
+        </p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (This is a sample website - built with Next.js.
+          You can see more programs and applications on my github <a href="https://github.com/olumide025" target="_blank">Page</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
