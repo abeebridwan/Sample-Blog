@@ -2,7 +2,7 @@
   Sample Website with Next.js
 
 ## Built With
-  - JAVASCRIPT/React/JS
+  - JS/React/NodeJS
   - typescript
   - Next.js
   - remark
