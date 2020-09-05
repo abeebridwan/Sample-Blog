@@ -22,7 +22,7 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hi, I'm Olumide. I'm a full stack software developer. I program with (HTML, CSS/SCSS, Node/JS/React,
-          python ..... I also have a business degree and accounting background. You can contact me on <a href="https://github.com/olumide025" target="_blank">Github</a>.
+          python .....). I also have a business degree and accounting background. You can contact me on <a href="https://github.com/olumide025" target="_blank">Github</a>.
         </p>
         <p>
           (This is a sample website - built with Next.js.
