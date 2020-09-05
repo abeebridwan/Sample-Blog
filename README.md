@@ -10,6 +10,9 @@
   - gray-matter
   - date-fns
 
+## Deployment with Vercel
+  Take a look at the live version [**Click here**](https://sample-blog-eta.vercel.app/)  
+
 ## Prerequisites
   - local server
   - web browser e.g. chrome
