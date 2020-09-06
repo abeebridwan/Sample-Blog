@@ -14,8 +14,8 @@
   Take a look at the live version [**Click here**](https://sample-blog-eta.vercel.app/)  
 
 ## Prerequisites
-  - local server
   - web browser e.g. chrome
+  - Next.js
 
 # Author
   Abeeb Ridwan Olumide
